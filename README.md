@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+<a href="https://github.com/3314099">
+  <img height=300 align="center" src="https://github-readme-stats-ashy-pi-99.vercel.app/api?username=3314099&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/3314099">
+  <img height=300 align="center" src="https://github-readme-stats-ashy-pi-99.vercel.app/api/top-langs/?username=3314099&card_width=320" />
+</a>
 
 <!--
 **3314099/3314099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
